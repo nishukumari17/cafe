@@ -1,0 +1,182 @@
+body{
+    background: yellowgreen;
+    margin:0;
+    padding:0;
+}
+.top{
+    background:white ;
+    padding: 10px 0;
+}
+.topper{
+    background-color: rgb(219, 184, 142);
+    height: 750px;
+   
+}
+ 
+.top1 img{
+    width:150px;
+    border-radius:70px;
+    padding: 10px 0;
+    margin-left:120px;
+    
+}
+.top2{
+    border-bottom: 5px black solid;
+    width: 100%;
+    padding:10px 10px;
+   
+}
+.top h2{
+   color: white;
+   text-align: center;
+  
+}
+.top4{
+    float: left;
+    margin-right: 13px;
+    padding: 30px 0px;
+   
+}
+
+
+.top4 h1{
+    text-align:center;
+    margin-left: 40px;
+}
+.top5 img{
+    width:100%;
+    padding: 10px 0;
+}
+.second img{
+    width: 100%;
+   
+    padding: 10px 0px;
+}
+.second{
+    background-color:rgb(96, 96, 98) ;
+    padding: 15px 0;
+}
+.SECOND2 h1{
+    text-align: center;
+    color: white;
+    padding: 10px 0 0 0;
+    margin-top:50px;
+}
+.SECOND2 h4{
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    padding:0 0 10px 0;
+    
+}
+.SECOND2 h3{
+    color:#CB763C;
+    border: 1px solid black;
+    padding: 10px 0px ;
+    text-align: center;
+   margin-bottom: 10px;
+   background-color: beige;
+
+}
+.SECOND2 h3:hover{
+color: rgb(70, 13, 18);
+background-color: aliceblue;
+}
+.third{
+    background-color: wheat;
+    padding: 10px 0;
+    
+}
+.third h1{
+    text-align: center;
+    color: rgb(54, 52, 52);
+    padding: 10px 0;
+    text-shadow: 3px 2px grey;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.third img{
+     width:300px;
+    margin-left: 80px;
+}
+.third h2{
+    text-align: center;
+}
+.third h4{
+    text-align: justify;
+    font-size:15px;
+}
+.fourth{
+    background-color: aliceblue;
+    padding: 10px 0;
+}
+.fourth img{
+    width: 100%;
+}
+.fourth h1{
+    text-align: center;
+    color: rgb(54, 52, 52);
+    padding: 10px 0;
+    text-shadow: 3px 2px grey;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fourth h2{
+    text-align: center;
+}
+.fourth h4{
+    text-align:center;
+    font-size:20px;
+}
+.fifth{
+    background-color: gray;
+}
+.fifth img{
+    width: 100%;
+}
+.fifth h1{
+    text-align: center;
+}
+.fifth h2{
+    color: grey;
+    text-align: justify;
+}
+.fifth h4{
+    text-align:justify;
+    font-size:20px;
+}
+.sixth{
+    background-color: white;
+    padding: 10px 0;
+}
+.sixth h2{
+    color:brown;
+    text-align: justify;
+}
+.sixth button{
+    padding: 5px 10px;
+    background-color: #CB763C;
+    text-align: center;
+}
+.foot{
+    background-color:#332a23 ;
+    padding: 20px 0;
+}
+
+.foot1{
+    font: size 500px;
+    text-align: center;
+    color: #CB763C;
+}
+.foot2 h2{
+    text-align: center;
+    color: aliceblue;
+    padding: 5px 0px;
+}
+.foot2 h4{
+    font-size: 15px;
+    text-align: center;
+    color: aliceblue;
+    padding:0 0 80px 0;
+}
+
