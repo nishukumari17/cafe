@@ -1,11 +1,11 @@
 body{
-    background: yellowgreen;
+    background-color: #332a23;
     margin:0;
     padding:0;
 }
 .top{
     background:white ;
-    padding: 10px 0;
+    padding:  0;
 }
 .topper{
     background-color: rgb(219, 184, 142);
@@ -29,7 +29,14 @@ body{
 .top h2{
    color: white;
    text-align: center;
+   
   
+}
+.top3 h2:hover{
+    color: black;
+}
+.top4 h1:hover{
+    color: rgb(17, 134, 197);
 }
 .top4{
     float: left;
@@ -53,7 +60,7 @@ body{
     padding: 10px 0px;
 }
 .second{
-    background-color:rgb(96, 96, 98) ;
+    background-color: #332a23;
     padding: 15px 0;
 }
 .SECOND2 h1{
@@ -98,6 +105,7 @@ background-color: aliceblue;
 .third img{
      width:300px;
     margin-left: 80px;
+   
 }
 .third h2{
     text-align: center;
@@ -146,12 +154,13 @@ background-color: aliceblue;
     font-size:20px;
 }
 .sixth{
-    background-color: white;
+    background-color: aliceblue;
     padding: 10px 0;
 }
 .sixth h2{
     color:brown;
     text-align: justify;
+    padding: 20px 0 0 0 ;
 }
 .sixth button{
     padding: 5px 10px;
@@ -180,3 +189,53 @@ background-color: aliceblue;
     padding:0 0 80px 0;
 }
 
+.contact{
+    padding: 4%;
+    height: 600px;
+}
+.contact .col-md-3{
+    background: #ff9b00;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+    margin-top:10%;
+
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+   
+}
+.contact-form button{
+    background-color: #332a23;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+    padding: 10px 20px;
+    margin-top:8px;
+}
+.contact-form button:hover{
+    box-shadow:none;
+    background-color:black;
+    
+    color: #ff9b00;
+    
+}
+#carouselExampleCaptions{
+    padding: 0;
+    margin-top: -30px;
+   
+}
