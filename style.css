@@ -68,6 +68,7 @@ body{
     color: white;
     padding: 10px 0 0 0;
     margin-top:50px;
+    text-shadow: 2PX 1px antiquewhite;
 }
 .SECOND2 h4{
     color: antiquewhite;
@@ -169,11 +170,13 @@ background-color: aliceblue;
     text-align: center;
 }
 .seventh{
-    background-color: rgb(70, 13, 18);
-    padding: 20px 0;
+    background-color:white;
+    padding: 10px 0;
 }
 .seventh h1{
     text-align: center;
+    color: black;
+   padding-bottom: 10px;
     
 }
 .foot{
