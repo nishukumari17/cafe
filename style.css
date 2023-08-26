@@ -9,7 +9,7 @@ body{
 }
 .topper{
     background-color: rgb(219, 184, 142);
-    height:710px;
+    
    
 }
  
@@ -28,9 +28,12 @@ body{
 }
 .top h2{
    color: white;
-   text-align: center;
+   
+}
    
   
+.top3 h2{
+    padding:5px 0 4px 100px;
 }
 .top3 h2:hover{
     color: black;
@@ -39,8 +42,8 @@ body{
     color: rgb(17, 134, 197);
 }
 .top4{
-    float: left;
-    margin-right: 13px;
+    display: inline-block;
+    margin-right: 10px;
     padding: 30px 0px;
    
 }
@@ -185,20 +188,20 @@ background-color: aliceblue;
 }
 
 .foot1{
-    font: size 500px;
+    font-size: 500px;
     text-align: center;
     color: #CB763C;
 }
-.foot2 h2{
+.foot1 h2{
     text-align: center;
     color: aliceblue;
     padding: 5px 0px;
 }
-.foot2 h4{
+.foot1 h4{
     font-size: 15px;
     text-align: center;
     color: aliceblue;
-    padding:0 0 80px 0;
+    padding:0 0 30px 0;
 }
 
 .contact{
@@ -251,3 +254,12 @@ background-color: aliceblue;
     margin-top: -30px;
    
 }
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+        .MultiCarousel .MultiCarousel-inner .item { float: left;}
+        .MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+    
+        .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
