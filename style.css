@@ -9,7 +9,7 @@ body{
 }
 .topper{
     background-color: rgb(219, 184, 142);
-    padding: 0 0 45px 0;
+    padding: 0 0 20px 0;
     
    
 }
@@ -161,7 +161,7 @@ background-color: aliceblue;
 }
 .sixth{
     background-color: aliceblue;
-    padding: 10px 0;
+    padding: 10px 0 50px 0;
 }
 .sixth img{
     width: 100%;
