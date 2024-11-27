@@ -193,6 +193,7 @@ background-color: aliceblue;
 .review h1{
     text-align: center;
     padding: 10px 0;
+    text-shadow: 2px 1px grey;
 }
 .menu{
     background-color:#332a23;
